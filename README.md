@@ -1,5 +1,6 @@
 Hi 👋 My name is Sebastian Lyng Johansen
 ==========================
+![](https://komarev.com/ghpvc/?username=seblj&style=for-the-badge)
 
 I am a computer science student at the University of Tromsø – The Arctic University of Norway.
 * 🌍  I'm based in Tromsø
