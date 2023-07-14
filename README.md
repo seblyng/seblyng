@@ -2,8 +2,8 @@ Hi 👋 My name is Sebastian Lyng Johansen
 ==========================
 ![](https://komarev.com/ghpvc/?username=seblj&style=for-the-badge)
 
-I am a computer science student at the University of Tromsø – The Arctic University of Norway.
-* 🌍  I'm based in Tromsø
+I am a Software Developer for SmartDok with a master's degree in Computer Science from the University of Tromsø - The Arctic University of Norway.
+* 🌍  I'm based in Oslo
 * ✉️  You can contact me at [seblyng98@gmail.com](mailto:seblyng98@gmail.com)
 
 ### Skills
