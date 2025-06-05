@@ -6,7 +6,7 @@ I am a Software Developer for SmartDok with a master's degree in Computer Scienc
 * 🌍  I'm based in Oslo
 * ✉️  You can contact me at [sebastian@lyngjohansen.com](mailto:sebastian@lyngjohansen.com)
 
-If you like my work, consider buying me a cup of coffee☕
+### Support me ☕
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/seblyng)
 
