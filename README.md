@@ -1,10 +1,10 @@
-Hi 👋 My name is Sebastian Lyng Johansen
+Hi 👋 My name is Sebastian Lyng Winther
 ==========================
 ![](https://komarev.com/ghpvc/?username=seblj&style=for-the-badge)
 
 I am a Software Developer for Bekk with a master's degree in Computer Science from the University of Tromsø - The Arctic University of Norway.
 * 🌍  I'm based in Oslo
-* ✉️  You can contact me at [sebastian@lyngjohansen.com](mailto:sebastian@lyngjohansen.com)
+* ✉️  You can contact me at [sebastian@lyngwinther.com](mailto:sebastian@lyngwinther.com)
 
 ### Support me ☕
 
